@@ -1,0 +1,2 @@
+Git is distributed version control system.
+Git is used to track changes in computer files made bt developers.
